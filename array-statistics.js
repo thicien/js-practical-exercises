@@ -11,4 +11,4 @@ function arrayStats(arr) {
   return { sum, average, min, max };
 }
 console.log(arrayStats([1, 2, 3, 4, 5]));
-console.log(arrayStats([20, 5, -10, 0]));
+console.log(arrayStats([20, 5, -10, 7]));
