@@ -7,4 +7,4 @@ function removeDuplicates(arr) {
     }
     return unique;
 }
-console.log(removeDuplicates(1, 2, 4, 4, 5, 7, 7));
+console.log(removeDuplicates([1, 2, 4, 4, 5, 7, 7]));
